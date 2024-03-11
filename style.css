@@ -1,0 +1,97 @@
+   body {
+       font-family: Arial, sans-serif;
+       margin: 40px;
+       background: url('bag.jpg');
+       color: #F5F5DC;
+       text-align: justify;
+   }
+
+   .photo{
+    border-radius: 90%;
+    height:100px;
+    width:100px;
+   }
+
+   body {
+       font-family: Arial, sans-serif;
+       margin: 40px;
+       background: url('bag.jpg');
+       color: #F5F5DC;
+       text-align: justify;
+   }
+
+   header {
+       text-align: center;
+       color: #D3D3D3;
+   }
+
+   nav {
+       text-align: center;
+       margin-bottom: 20px;
+       background-color: antiquewhite;
+       height: 30px;
+       display: flex;
+       align-items: center;
+       width: 100%;
+       justify-content: center;
+       position: sticky;
+       top: 0;
+       z-index: 1000;
+   }
+
+   nav a {
+       margin: 0 10px;
+       text-decoration: none;
+       color: #333;
+       font-weight: bold;
+   }
+
+   .container {
+       max-width: 800px;
+       margin: auto;
+       color: #D3D3D3;
+   }
+
+   section {
+       margin-bottom: 20px;
+   }
+
+   ul {
+       list-style-type: none;
+       padding: 0;
+   }
+
+   li {
+       margin-bottom: 10px;
+   }
+
+   .con {
+       background-color: #D3D3D3;
+       color: #333;
+       text-align: center;
+       padding: 15px;
+       margin-top: 20px;
+       margin-bottom: 20px;
+   }
+
+   .contact-info {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       margin-top: 15px;
+       margin-bottom: 15px;
+   }
+
+   .contact-info img {
+       margin-right: 10px;
+       margin-left: 30px;
+       width: 20px;
+       height: 20px;
+       margin-bottom: 5px;
+   }
+
+   .footer {
+       text-align: center;
+       margin-top: 30px;
+       color: #777;
+   }
